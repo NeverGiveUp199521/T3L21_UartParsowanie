@@ -1,0 +1,9 @@
+UART_DMA.c:21:6:UARTDMA_UartIrqHandler	24	static
+UART_DMA.c:39:6:UARTDMA_DmaReceiveIrqHandler	32	static
+UART_DMA.c:75:5:UARTDMA_PutCharToTxBuffer	16	static
+UART_DMA.c:88:9:UARTDMA_GetLineFromReceiveBuffer	24	static
+UART_DMA.c:114:6:UARTDMA_Print	24	static
+UART_DMA.c:135:9:UARTDMA_IsDataTransferReady	16	static
+UART_DMA.c:146:9:UARTDMA_IsDataReceivedReady	16	static
+UART_DMA.c:158:6:UARTDMA_TransmitEvent	24	static
+UART_DMA.c:184:6:UARTDMA_Init	16	static
